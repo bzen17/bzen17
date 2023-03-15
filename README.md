@@ -1,6 +1,11 @@
 <h1 align="center">Hey Guys!👋, This is Ayan.</h1>
 
 <h3 align="center">Tech Lead</h3>
+
+
+[![ust](src/ust-piktorlabs.png)](https://www.ust.com/)
+
+
 <p align="center">
     <a href="https://www.ust.com/" target="_blank"><img alt="bzen17 | UST" style="background:white; padding:5px" src="./src/ust-piktorlabs.png" /></a>
 </p>
@@ -35,6 +40,7 @@
     <a href="mailto:admin@ayanbanerjee.in" target="_blank"><img align="left" alt="bzen17 | Gmail" width='32px'  src="./src/email.png" /></a>
 </p>
 <br/>
+
 <!-- **Language and tools to be added** -->
 # 💻Tech Stack
 
