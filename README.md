@@ -3,7 +3,7 @@
 <h3 align="center">Tech Lead</h3>
 
 <p align="center">
-    <a href="https://www.ust.com/" ><img alt="bzen17 | UST" src="./src/ust-piktorlabs.png" /></a>
+    <a href="https://www.ust.com/" ><img alt="bzen17 | UST" src="./src/ust-piktorlabs.png" width='150' height='36' /></a>
 </p>
 
 <p>
