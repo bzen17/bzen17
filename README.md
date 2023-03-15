@@ -2,14 +2,12 @@
 
 <h3 align="center">Tech Lead</h3>
 
-[![ust](src/ust-piktorlabs.png){: style="background:white; padding:5px;"}](https://www.ust.com/)
-
 <p align="center">
-    <a href="https://www.ust.com/" target="_blank"><img alt="bzen17 | UST" style="background:white; padding:5px" src="./src/ust-piktorlabs.png" /></a>
+    <a href="https://www.ust.com/" ><img alt="bzen17 | UST" src="./src/ust-piktorlabs.png" /></a>
 </p>
 
 <p>
-<a href="https://ayanbanerjee.in/" target="_blank"><img src="https://img.shields.io/badge/Link%20to%20my%20website-1572B6.svg?style=plastic&logo=wordpress&logoColor=white&logoWidth=25"></a>
+<a href="https://ayanbanerjee.in/" ><img src="https://img.shields.io/badge/Link%20to%20my%20website-1572B6.svg?style=plastic&logo=wordpress&logoColor=white&logoWidth=25"></a>
 <img align="right" src="https://visitcount.itsvg.in/api?id=bzen17&label=Profile%20Views&icon=0&pretty=true" alt="bzen17" />
 </p>
 
@@ -33,9 +31,9 @@
 ## 🌐 Connect with me:
 
 <p>
-    <a href="https://www.linkedin.com/in/ayanbanerjee1795/" target="_blank"><img align="left" style="padding: 0 30px" alt="bzen17 | LinkedIn" width='32px' src="./src/linkedin.png" /></a>
-    <a href="https://gitlab.com/abanerjee95" target="_blank"><img align="left" style="padding-right: 30px" alt="bzen17 | Gmail" width='32px'   src="./src/gitlab.png" /></a>
-    <a href="mailto:admin@ayanbanerjee.in" target="_blank"><img align="left" alt="bzen17 | Gmail" width='32px'  src="./src/email.png" /></a>
+    <a href="https://www.linkedin.com/in/ayanbanerjee1795/" ><img align="left" style="padding: 0 30px" alt="bzen17 | LinkedIn" width='32px' src="./src/linkedin.png" /></a>
+    <a href="https://gitlab.com/abanerjee95" ><img align="left" style="padding-right: 30px" alt="bzen17 | Gmail" width='32px'   src="./src/gitlab.png" /></a>
+    <a href="mailto:admin@ayanbanerjee.in" ><img align="left" alt="bzen17 | Gmail" width='32px'  src="./src/email.png" /></a>
 </p>
 <br/>
 
