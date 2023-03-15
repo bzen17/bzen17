@@ -35,10 +35,10 @@
     <a href="https://gitlab.com/abanerjee95" ><img align="left" style="padding-right: 30px" alt="bzen17 | Gmail" width='32px'   src="./src/gitlab.png" /></a>
     <a href="mailto:admin@ayanbanerjee.in" ><img align="left" alt="bzen17 | Gmail" width='32px'  src="./src/email.png" /></a>
 </p>
-<br/>
+<br><br/>
 
 <!-- **Language and tools to be added** -->
-# 💻Tech Stack
+# 💻 Tech Stack
 
 ### Front-end Technologies
 
