@@ -71,9 +71,3 @@
  <!-- <div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bzen17&%22" alt="Shivangi" /></div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzen17&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"> --> 
-
-<!-- Contribution graph --->
-<summary>💹: Contribution Graph </summary>
-<br/>
-
-[![My Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bzen17&custom_title=My%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
