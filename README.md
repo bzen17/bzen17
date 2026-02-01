@@ -15,9 +15,6 @@
   <a href="https://www.linkedin.com/in/ayanbanerjee1795/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ayan%20Banerjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/bzen17">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-bzen17-181717?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 ---
