@@ -101,15 +101,6 @@ Kalinga Institute of Industrial Technology (KIIT)
 
 ---
 
-## 📊 GitHub Activity
-
-<p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bzen17&show_icons=true&theme=radical" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzen17&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📫 Get in Touch
 
 - **Email:** admin@ayanbanerjee.in  
